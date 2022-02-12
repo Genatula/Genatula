@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Ilnas 👻 </h1>
+<h3 align="center"> Software engineering student from Russia currently studying at ITIS, KFU 🧑🏼‍💻 </h2>
+<br>
+<p align="center"> 💻 I've worked with: <i>Java, Jakarta EE & Spring, Python & Django</i>
+</p>
+
+<p align="center">💁 My pronouns are <b>they/them</b></p>
+<p align="center"> If you wanna reach me, my telegram username is <b> @genatula </b>. Feel free to write!</p>
 
 <!--
 **Genatula/Genatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
